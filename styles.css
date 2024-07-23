@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #029321;
+    font-family: Helvetica, sans-serif;
+    background-color: #262842;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body {
 
 .container {
     text-align: center;
-    background-color: #84ff00;
+    background-color: #8897BD;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
